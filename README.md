@@ -1,4 +1,4 @@
-## Hi, I'm Alexandra 👋
+## Hi, I'm Alexandra
 
 I'm a **Junior .NET / C# Developer** and a graduate of the
 **Department of Informatics, University of Piraeus**.
@@ -6,14 +6,14 @@ I'm a **Junior .NET / C# Developer** and a graduate of the
 I enjoy building full-stack web applications with **ASP.NET Core**, designing clean
 databases and turning ideas into products that people actually use.
 
-- 🔭 **Currently:** looking for my first role as a **Junior .NET / C# Developer**
-- 🌱 **Learning:** ASP.NET Core Web API, unit testing, Docker
-- 📍 **Based in:** Greece
-- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/alexandra-tourgoutoglou/) · [atourgoutoglou@gmail.com](mailto:atourgoutoglou@gmail.com)
+- **Currently:** looking for my first role as a Junior .NET / C# Developer
+- **Learning:** ASP.NET Core Web API, unit testing, Docker
+- **Based in:** Greece
+- **Contact:** [LinkedIn](https://www.linkedin.com/in/alexandra-tourgoutoglou/) · [atourgoutoglou@gmail.com](mailto:atourgoutoglou@gmail.com)
 
 ---
 
-### 🛠 Tech stack
+### Tech stack
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -31,7 +31,7 @@ databases and turning ideas into products that people actually use.
 
 ---
 
-### ⭐ Featured project
+### Featured project
 
 **[eMotion — Emotion-Aware Adaptive Learning Platform](https://github.com/atourgoutoglou/eMotion)** *(Bachelor's thesis)*
 

@@ -7,7 +7,7 @@ I build full-stack applications with **C# / ASP.NET Core** and **Python**, and l
 - **Currently:** looking for my first role as a Junior Software / AI Developer
 - **Learning:** LLM applications, RAG evaluation, React with TypeScript, Docker
 - **Based in:** Greece
-- **Contact:** [LinkedIn](LINKEDIN_LINK) · [atourgoutoglou@gmail.com](mailto:atourgoutoglou@gmail.com)
+- **Contact:** [LinkedIn](https://www.linkedin.com/in/alexandra-tourgoutoglou/) · [atourgoutoglou@gmail.com](mailto:atourgoutoglou@gmail.com)
 
 ---
 
@@ -29,19 +29,22 @@ I build full-stack applications with **C# / ASP.NET Core** and **Python**, and l
 
 Chat with your lecture notes and papers, and get answers that cite the exact page they came from. Runs fully locally.
 
-- **RAG pipeline** with hybrid search (keyword +
+- **RAG pipeline** with hybrid search (keyword + semantic, Reciprocal Rank Fusion) that reaches **100% Hit@5** on my evaluation set
+- **Citation verification**: flags when the model cites a page it never read
+- **FastAPI** backend, **React + TypeScript + Tailwind** frontend with dark mode and PDF upload
+- Local LLM (**llama3.1:8b** via Ollama) and **pytest** tests
 
-### Featured project
+<img src="https://raw.githubusercontent.com/atourgoutoglou/studymate/master/docs/answer.png" width="700" alt="StudyMate answering a question with cited sources">
 
-**[eMotion — Emotion-Aware Adaptive Learning Platform](https://github.com/atourgoutoglou/eMotion)** *(Bachelor's thesis)*
+### [eMotion: Emotion-Aware Adaptive Learning Platform](https://github.com/atourgoutoglou/eMotion) *(Bachelor's thesis)*
 
-A web learning platform that estimates a student's emotional state (confident, anxious,
-frustrated, tired, idle) from their interaction with the lessons and adapts the learning
-experience in real time.
+A web learning platform that estimates a student's emotional state (confident, anxious, frustrated, tired, idle) from their interaction with the lessons and adapts the learning experience in real time.
 
 - Role-based app for **students, teachers and admins** (ASP.NET Core Identity)
 - Rule-based, **explainable emotion engine** that adjusts difficulty, hints and challenges
 - Teacher dashboard with progress and emotional insights per student
-- Background service that sends **e-mail reminders** to inactive students
+- Built with **C#, ASP.NET Core MVC, Entity Framework Core, SQL Server, Bootstrap**
 
-`C#` `ASP.NET Core 8 MVC` `EF Core` `SQL Server` `JavaScript` `Bootstrap`
+---
+
+📂 More projects (machine learning, web apps, search) are in my [repositories](https://github.com/atourgoutoglou?tab=repositories).

@@ -34,7 +34,6 @@ Chat with your lecture notes and papers, and get answers that cite the exact pag
 - **FastAPI** backend, **React + TypeScript + Tailwind** frontend with dark mode and PDF upload
 - Local LLM (**llama3.1:8b** via Ollama) and **pytest** tests
 
-<img src="https://raw.githubusercontent.com/atourgoutoglou/studymate/master/docs/answer.png" width="700" alt="StudyMate answering a question with cited sources">
 
 ### [eMotion: Emotion-Aware Adaptive Learning Platform](https://github.com/atourgoutoglou/eMotion) *(Bachelor's thesis)*
 
